@@ -1,2 +1,2 @@
 # quiosc
-quiosc fet amb arduino
+quiosc fet amb Arduino
